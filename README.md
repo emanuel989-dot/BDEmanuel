@@ -45,7 +45,7 @@
 #### exemplo 2
 -  Encontrar todos os filmes dirigidos por 'Christopher Nolan'
 
-![exemplo2](./assents/consulta2.png)
+![exemplo2](./assents/Consulta2.png)
 
 ---
 ### exemplo 3
